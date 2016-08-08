@@ -4,7 +4,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Bungee Hairline', cursive;
+  font-family: 'Exo 2', sans-serif;
 }
 
 p {
@@ -65,7 +65,7 @@ a.btn.btn-default:hover {
 
 @media(max-width: 500px) {
   .jumbotron h1 {
-    padding-top: 200px;
+    padding-top: 100px;
     font-size: 4em;
   }
 
@@ -75,7 +75,7 @@ a.btn.btn-default:hover {
 }
 
 .jumbotron p {
-  font-size: 4em;
+  font-size: 3em;
 }
 
 @media(max-width: 768px) {
@@ -204,7 +204,7 @@ a.btn.btn-default:hover {
 
 #contact {
   background-color: #e2cdc7;
-  height: 400px;
+  height: 450px;
 }
 
 #contact h2 {
@@ -224,7 +224,7 @@ a.btn.btn-default:hover {
 .email a{
   text-decoration: none;
   color: #fff;
-  letter-spacing: 5px;
+  letter-spacing: 3px;
 }
 
 .email a:hover {
